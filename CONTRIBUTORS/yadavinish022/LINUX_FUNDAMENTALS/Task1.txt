@@ -1,0 +1,6 @@
+Linux Fundamentals - Task 1
+
+Linux Environment: Kali Linux (WSL)
+
+Proof Screenshot:
+https://drive.google.com/file/d/1KUw0U7HrU-lJHwd7C8UO28XUgVum6uov/view?usp=drive_link
